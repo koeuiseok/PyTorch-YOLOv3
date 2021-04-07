@@ -27,6 +27,7 @@ bash download_weights.sh
 bash get_coco_dataset.sh
 ```  
 
-6.
-
-/// 미완 
+6. 다음 명령어로 실행 가능
+```  
+python3 detect.py --image_folder data/samples/
+```  
